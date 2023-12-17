@@ -4,6 +4,7 @@ Welcome to the documentation for the Vehicle Rental Service API. This API provid
 
 
 ## Technologies Used
+- Java
 - Spring Boot
 - Spring Data JPA
 - PostgreSQL Database
